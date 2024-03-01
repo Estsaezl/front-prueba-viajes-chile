@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    font-weight: 900;
+}
+
+footer h2 {
+    font-weight: 900;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+#quienes-somos i {
+    color: white;
+}
